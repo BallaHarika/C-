@@ -1,0 +1,12 @@
+C:\Users\admin\Documents\dot_net_training\play\Asynchrony\bin\Debug\netcoreapp3.1\Asynchrony.exe
+C:\Users\admin\Documents\dot_net_training\play\Asynchrony\bin\Debug\netcoreapp3.1\Asynchrony.deps.json
+C:\Users\admin\Documents\dot_net_training\play\Asynchrony\bin\Debug\netcoreapp3.1\Asynchrony.runtimeconfig.json
+C:\Users\admin\Documents\dot_net_training\play\Asynchrony\bin\Debug\netcoreapp3.1\Asynchrony.runtimeconfig.dev.json
+C:\Users\admin\Documents\dot_net_training\play\Asynchrony\bin\Debug\netcoreapp3.1\Asynchrony.dll
+C:\Users\admin\Documents\dot_net_training\play\Asynchrony\bin\Debug\netcoreapp3.1\Asynchrony.pdb
+C:\Users\admin\Documents\dot_net_training\play\Asynchrony\obj\Debug\netcoreapp3.1\Asynchrony.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\dot_net_training\play\Asynchrony\obj\Debug\netcoreapp3.1\Asynchrony.AssemblyInfo.cs
+C:\Users\admin\Documents\dot_net_training\play\Asynchrony\obj\Debug\netcoreapp3.1\Asynchrony.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\dot_net_training\play\Asynchrony\obj\Debug\netcoreapp3.1\Asynchrony.dll
+C:\Users\admin\Documents\dot_net_training\play\Asynchrony\obj\Debug\netcoreapp3.1\Asynchrony.pdb
+C:\Users\admin\Documents\dot_net_training\play\Asynchrony\obj\Debug\netcoreapp3.1\Asynchrony.genruntimeconfig.cache

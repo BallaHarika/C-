@@ -1,0 +1,9 @@
+C:\Users\admin\Documents\dot_net_training\labwork\CorelogicLayer\bin\Debug\netcoreapp3.1\CorelogicLayer.deps.json
+C:\Users\admin\Documents\dot_net_training\labwork\CorelogicLayer\bin\Debug\netcoreapp3.1\CorelogicLayer.dll
+C:\Users\admin\Documents\dot_net_training\labwork\CorelogicLayer\bin\Debug\netcoreapp3.1\CorelogicLayer.pdb
+C:\Users\admin\Documents\dot_net_training\labwork\CorelogicLayer\obj\Debug\netcoreapp3.1\CorelogicLayer.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\dot_net_training\labwork\CorelogicLayer\obj\Debug\netcoreapp3.1\CorelogicLayer.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\dot_net_training\labwork\CorelogicLayer\obj\Debug\netcoreapp3.1\CorelogicLayer.AssemblyInfo.cs
+C:\Users\admin\Documents\dot_net_training\labwork\CorelogicLayer\obj\Debug\netcoreapp3.1\CorelogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\dot_net_training\labwork\CorelogicLayer\obj\Debug\netcoreapp3.1\CorelogicLayer.dll
+C:\Users\admin\Documents\dot_net_training\labwork\CorelogicLayer\obj\Debug\netcoreapp3.1\CorelogicLayer.pdb

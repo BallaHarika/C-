@@ -1,0 +1,9 @@
+C:\Users\admin\Documents\dot_net_training\play\Absiphonefactory\bin\Debug\netcoreapp3.1\Absiphonefactory.deps.json
+C:\Users\admin\Documents\dot_net_training\play\Absiphonefactory\bin\Debug\netcoreapp3.1\Absiphonefactory.dll
+C:\Users\admin\Documents\dot_net_training\play\Absiphonefactory\bin\Debug\netcoreapp3.1\Absiphonefactory.pdb
+C:\Users\admin\Documents\dot_net_training\play\Absiphonefactory\obj\Debug\netcoreapp3.1\Absiphonefactory.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\dot_net_training\play\Absiphonefactory\obj\Debug\netcoreapp3.1\Absiphonefactory.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\dot_net_training\play\Absiphonefactory\obj\Debug\netcoreapp3.1\Absiphonefactory.AssemblyInfo.cs
+C:\Users\admin\Documents\dot_net_training\play\Absiphonefactory\obj\Debug\netcoreapp3.1\Absiphonefactory.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\dot_net_training\play\Absiphonefactory\obj\Debug\netcoreapp3.1\Absiphonefactory.dll
+C:\Users\admin\Documents\dot_net_training\play\Absiphonefactory\obj\Debug\netcoreapp3.1\Absiphonefactory.pdb

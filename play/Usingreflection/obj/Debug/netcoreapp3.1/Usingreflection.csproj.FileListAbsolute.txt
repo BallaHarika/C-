@@ -1,0 +1,16 @@
+C:\Users\admin\Documents\dot_net_training\play\Usingreflection\bin\Debug\netcoreapp3.1\Usingreflection.exe
+C:\Users\admin\Documents\dot_net_training\play\Usingreflection\bin\Debug\netcoreapp3.1\Usingreflection.deps.json
+C:\Users\admin\Documents\dot_net_training\play\Usingreflection\bin\Debug\netcoreapp3.1\Usingreflection.runtimeconfig.json
+C:\Users\admin\Documents\dot_net_training\play\Usingreflection\bin\Debug\netcoreapp3.1\Usingreflection.runtimeconfig.dev.json
+C:\Users\admin\Documents\dot_net_training\play\Usingreflection\bin\Debug\netcoreapp3.1\Usingreflection.dll
+C:\Users\admin\Documents\dot_net_training\play\Usingreflection\bin\Debug\netcoreapp3.1\Usingreflection.pdb
+C:\Users\admin\Documents\dot_net_training\play\Usingreflection\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\admin\Documents\dot_net_training\play\Usingreflection\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\admin\Documents\dot_net_training\play\Usingreflection\obj\Debug\netcoreapp3.1\Usingreflection.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\dot_net_training\play\Usingreflection\obj\Debug\netcoreapp3.1\Usingreflection.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\dot_net_training\play\Usingreflection\obj\Debug\netcoreapp3.1\Usingreflection.AssemblyInfo.cs
+C:\Users\admin\Documents\dot_net_training\play\Usingreflection\obj\Debug\netcoreapp3.1\Usingreflection.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\dot_net_training\play\Usingreflection\obj\Debug\netcoreapp3.1\Usingreflection.csproj.CopyComplete
+C:\Users\admin\Documents\dot_net_training\play\Usingreflection\obj\Debug\netcoreapp3.1\Usingreflection.dll
+C:\Users\admin\Documents\dot_net_training\play\Usingreflection\obj\Debug\netcoreapp3.1\Usingreflection.pdb
+C:\Users\admin\Documents\dot_net_training\play\Usingreflection\obj\Debug\netcoreapp3.1\Usingreflection.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+C:\Users\admin\Documents\dot_net_training\play\AdapterPattern\bin\Debug\netcoreapp3.1\AdapterPattern.deps.json
+C:\Users\admin\Documents\dot_net_training\play\AdapterPattern\bin\Debug\netcoreapp3.1\AdapterPattern.dll
+C:\Users\admin\Documents\dot_net_training\play\AdapterPattern\bin\Debug\netcoreapp3.1\AdapterPattern.pdb
+C:\Users\admin\Documents\dot_net_training\play\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\dot_net_training\play\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\dot_net_training\play\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.AssemblyInfo.cs
+C:\Users\admin\Documents\dot_net_training\play\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\dot_net_training\play\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.dll
+C:\Users\admin\Documents\dot_net_training\play\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.pdb

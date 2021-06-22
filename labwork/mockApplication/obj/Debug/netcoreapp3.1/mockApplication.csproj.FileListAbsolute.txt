@@ -1,0 +1,13 @@
+C:\Users\admin\Documents\dot_net_training\labwork\mockApplication\obj\Debug\netcoreapp3.1\mockApplication.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\dot_net_training\labwork\mockApplication\obj\Debug\netcoreapp3.1\mockApplication.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\dot_net_training\labwork\mockApplication\obj\Debug\netcoreapp3.1\mockApplication.AssemblyInfo.cs
+C:\Users\admin\Documents\dot_net_training\labwork\mockApplication\obj\Debug\netcoreapp3.1\mockApplication.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\dot_net_training\labwork\mockApplication\bin\Debug\netcoreapp3.1\mockApplication.exe
+C:\Users\admin\Documents\dot_net_training\labwork\mockApplication\bin\Debug\netcoreapp3.1\mockApplication.deps.json
+C:\Users\admin\Documents\dot_net_training\labwork\mockApplication\bin\Debug\netcoreapp3.1\mockApplication.runtimeconfig.json
+C:\Users\admin\Documents\dot_net_training\labwork\mockApplication\bin\Debug\netcoreapp3.1\mockApplication.runtimeconfig.dev.json
+C:\Users\admin\Documents\dot_net_training\labwork\mockApplication\bin\Debug\netcoreapp3.1\mockApplication.dll
+C:\Users\admin\Documents\dot_net_training\labwork\mockApplication\bin\Debug\netcoreapp3.1\mockApplication.pdb
+C:\Users\admin\Documents\dot_net_training\labwork\mockApplication\obj\Debug\netcoreapp3.1\mockApplication.dll
+C:\Users\admin\Documents\dot_net_training\labwork\mockApplication\obj\Debug\netcoreapp3.1\mockApplication.pdb
+C:\Users\admin\Documents\dot_net_training\labwork\mockApplication\obj\Debug\netcoreapp3.1\mockApplication.genruntimeconfig.cache

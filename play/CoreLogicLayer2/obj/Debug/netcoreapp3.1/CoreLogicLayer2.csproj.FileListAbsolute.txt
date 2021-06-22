@@ -1,0 +1,9 @@
+C:\Users\admin\Documents\dot_net_training\play\CoreLogicLayer2\bin\Debug\netcoreapp3.1\CoreLogicLayer2.deps.json
+C:\Users\admin\Documents\dot_net_training\play\CoreLogicLayer2\bin\Debug\netcoreapp3.1\CoreLogicLayer2.dll
+C:\Users\admin\Documents\dot_net_training\play\CoreLogicLayer2\bin\Debug\netcoreapp3.1\CoreLogicLayer2.pdb
+C:\Users\admin\Documents\dot_net_training\play\CoreLogicLayer2\obj\Debug\netcoreapp3.1\CoreLogicLayer2.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\dot_net_training\play\CoreLogicLayer2\obj\Debug\netcoreapp3.1\CoreLogicLayer2.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\dot_net_training\play\CoreLogicLayer2\obj\Debug\netcoreapp3.1\CoreLogicLayer2.AssemblyInfo.cs
+C:\Users\admin\Documents\dot_net_training\play\CoreLogicLayer2\obj\Debug\netcoreapp3.1\CoreLogicLayer2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\dot_net_training\play\CoreLogicLayer2\obj\Debug\netcoreapp3.1\CoreLogicLayer2.dll
+C:\Users\admin\Documents\dot_net_training\play\CoreLogicLayer2\obj\Debug\netcoreapp3.1\CoreLogicLayer2.pdb

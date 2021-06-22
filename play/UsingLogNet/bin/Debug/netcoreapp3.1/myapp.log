@@ -1,0 +1,8 @@
+2021-06-15 12:25:31,359 [1] DEBUG UsingLogNet.Program - this is a debug log 
+2021-06-15 12:25:31,396 [1] ERROR UsingLogNet.Program - this is  an error log
+2021-06-15 12:25:31,396 [1] WARN UsingLogNet.Program - this is a warning log
+2021-06-15 12:25:31,397 [1] INFO UsingLogNet.Program - this is just for information
+2021-06-21 15:46:14,592 [1] DEBUG UsingLogNet.Program - this is a debug log 
+2021-06-21 15:46:14,679 [1] ERROR UsingLogNet.Program - this is  an error log
+2021-06-21 15:46:14,680 [1] WARN UsingLogNet.Program - this is a warning log
+2021-06-21 15:46:14,682 [1] INFO UsingLogNet.Program - this is just for information

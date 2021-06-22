@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BQPqhyqgyDHFHjcHEmf1THnkoYRXZrs4u6leZH7byNhbLb0+qIPdvi/ULX9LY/wpO2xGNdXN3sAv/hhkhm/wcw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\Documents\\dot_net_training\\play\\Usingreflection\\Usingreflection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

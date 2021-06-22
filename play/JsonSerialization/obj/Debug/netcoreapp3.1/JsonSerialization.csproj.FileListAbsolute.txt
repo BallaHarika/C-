@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\dot_net_training\play\JsonSerialization\bin\Debug\netcoreapp3.1\JsonSerialization.exe
+C:\Users\admin\Documents\dot_net_training\play\JsonSerialization\bin\Debug\netcoreapp3.1\JsonSerialization.deps.json
+C:\Users\admin\Documents\dot_net_training\play\JsonSerialization\bin\Debug\netcoreapp3.1\JsonSerialization.runtimeconfig.json
+C:\Users\admin\Documents\dot_net_training\play\JsonSerialization\bin\Debug\netcoreapp3.1\JsonSerialization.runtimeconfig.dev.json
+C:\Users\admin\Documents\dot_net_training\play\JsonSerialization\bin\Debug\netcoreapp3.1\JsonSerialization.dll
+C:\Users\admin\Documents\dot_net_training\play\JsonSerialization\bin\Debug\netcoreapp3.1\JsonSerialization.pdb
+C:\Users\admin\Documents\dot_net_training\play\JsonSerialization\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\admin\Documents\dot_net_training\play\JsonSerialization\obj\Debug\netcoreapp3.1\JsonSerialization.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\dot_net_training\play\JsonSerialization\obj\Debug\netcoreapp3.1\JsonSerialization.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\dot_net_training\play\JsonSerialization\obj\Debug\netcoreapp3.1\JsonSerialization.AssemblyInfo.cs
+C:\Users\admin\Documents\dot_net_training\play\JsonSerialization\obj\Debug\netcoreapp3.1\JsonSerialization.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\dot_net_training\play\JsonSerialization\obj\Debug\netcoreapp3.1\JsonSerialization.csproj.CopyComplete
+C:\Users\admin\Documents\dot_net_training\play\JsonSerialization\obj\Debug\netcoreapp3.1\JsonSerialization.dll
+C:\Users\admin\Documents\dot_net_training\play\JsonSerialization\obj\Debug\netcoreapp3.1\JsonSerialization.pdb
+C:\Users\admin\Documents\dot_net_training\play\JsonSerialization\obj\Debug\netcoreapp3.1\JsonSerialization.genruntimeconfig.cache

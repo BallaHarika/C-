@@ -1,0 +1,52 @@
+2021-06-21 15:21:43,774 [1] INFO UI2.Program - Creating  a  Employee record
+2021-06-21 15:22:47,085 [1] INFO CoreLogicLayer2.Employee - employee added to list of employees
+2021-06-21 15:22:47,097 [1] INFO UI2.Program - employee details are added and displayed
+2021-06-21 15:22:47,100 [1] WARN UI2.Program - for employee list under project manager ,please enter project manager as  an employee
+2021-06-21 15:23:44,654 [1] INFO UI2.Program - Creating  a  Employee record
+2021-06-21 15:23:50,443 [1] INFO CoreLogicLayer2.Employee - employee added to list of employees
+2021-06-21 15:23:50,448 [1] INFO UI2.Program - employee details are added and displayed
+2021-06-21 15:23:50,449 [1] WARN UI2.Program - for employee list under project manager ,please enter project manager as  an employee
+2021-06-21 15:23:56,998 [1] INFO UI2.Program - Creating a project Manager for  employees
+2021-06-21 15:24:02,069 [1] INFO UI2.Program - project manager assigned to employee
+2021-06-21 15:24:04,153 [1] INFO UI2.Program - assigning a  PM to employee
+2021-06-21 15:24:08,491 [1] INFO CoreLogicLayer2.Employee - employee added to list of employees
+2021-06-21 15:24:08,494 [1] INFO UI2.Program - employees are added successfully to the project Team
+2021-06-21 15:24:16,279 [1] INFO UI2.Program - deleting an employee from employeelist
+2021-06-21 15:24:21,986 [1] ERROR UI2.Program - employee not found in the comapny list
+2021-06-21 16:03:15,653 [1] INFO UI2.Program - Creating  a  Employee record
+2021-06-21 16:03:27,650 [1] INFO CoreLogicLayer2.Employee - employee added to list of employees
+2021-06-21 16:03:27,657 [1] INFO UI2.Program - employee details are added and displayed
+2021-06-21 16:03:27,658 [1] WARN UI2.Program - for employee list under project manager ,please enter project manager as  an employee
+2021-06-21 16:03:30,458 [1] INFO UI2.Program - assigning a  PM to employee
+2021-06-21 16:03:37,154 [1] ERROR UI2.Program - employee not added to employee list
+2021-06-21 16:04:45,798 [1] INFO UI2.Program - Creating  a  Employee record
+2021-06-21 16:04:57,140 [1] INFO CoreLogicLayer2.Employee - employee added to list of employees
+2021-06-21 16:04:57,160 [1] INFO UI2.Program - employee details are added and displayed
+2021-06-21 16:04:57,161 [1] WARN UI2.Program - for employee list under project manager ,please enter project manager as  an employee
+2021-06-21 16:04:58,480 [1] INFO UI2.Program - Creating a project Manager for  employees
+2021-06-21 16:05:04,521 [1] INFO UI2.Program - project manager assigned to employee
+2021-06-21 16:05:06,216 [1] INFO UI2.Program - assigning a  PM to employee
+2021-06-21 16:05:16,470 [1] ERROR UI2.Program - employee not added to employee list
+2021-06-21 16:05:27,877 [1] INFO UI2.Program - assigning a  PM to employee
+2021-06-21 16:05:41,332 [1] ERROR UI2.Program - employee not added to employee list
+2021-06-21 16:06:19,466 [1] INFO UI2.Program - Creating  a  Employee record
+2021-06-21 16:06:22,806 [1] INFO CoreLogicLayer2.Employee - employee added to list of employees
+2021-06-21 16:06:22,808 [1] INFO UI2.Program - employee details are added and displayed
+2021-06-21 16:06:22,809 [1] WARN UI2.Program - for employee list under project manager ,please enter project manager as  an employee
+2021-06-21 16:06:24,800 [1] INFO UI2.Program - Creating a project Manager for  employees
+2021-06-21 16:06:25,907 [1] ERROR UI2.Program - System.FormatException: Input string was not in a correct format.
+   at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, TypeCode type)
+   at System.Number.ParseInt32(ReadOnlySpan`1 value, NumberStyles styles, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at UI2.Program.Main(String[] args) in C:\Users\admin\Documents\dot_net_training\play\UI2\Program.cs:line 102
+2021-06-21 16:06:52,334 [1] INFO UI2.Program - assigning a  PM to employee
+2021-06-21 16:06:53,256 [1] ERROR UI2.Program - employee not added to employee list
+2021-06-21 16:07:08,996 [1] INFO UI2.Program - deleting an employee from employeelist
+2021-06-21 16:07:09,511 [1] ERROR UI2.Program - employee not found in the comapny list
+2021-06-21 16:07:17,752 [1] INFO UI2.Program - Creating  a  Employee record
+2021-06-21 16:07:18,452 [1] INFO CoreLogicLayer2.Employee - employee added to list of employees
+2021-06-21 16:07:18,456 [1] INFO UI2.Program - employee details are added and displayed
+2021-06-21 16:07:18,456 [1] WARN UI2.Program - for employee list under project manager ,please enter project manager as  an employee
+2021-06-21 16:08:01,904 [1] INFO UI2.Program - deleting an employee from employeelist
+2021-06-21 16:10:02,522 [1] INFO UI2.Program - deleting an employee from employeelist
+2021-06-21 16:10:03,881 [1] ERROR UI2.Program - empolyee deleted successfully

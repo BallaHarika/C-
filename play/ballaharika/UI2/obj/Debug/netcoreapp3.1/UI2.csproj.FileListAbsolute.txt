@@ -1,0 +1,16 @@
+C:\Users\admin\Documents\dot_net_training\play\UI2\bin\Debug\netcoreapp3.1\UI2.exe
+C:\Users\admin\Documents\dot_net_training\play\UI2\bin\Debug\netcoreapp3.1\UI2.deps.json
+C:\Users\admin\Documents\dot_net_training\play\UI2\bin\Debug\netcoreapp3.1\UI2.runtimeconfig.json
+C:\Users\admin\Documents\dot_net_training\play\UI2\bin\Debug\netcoreapp3.1\UI2.runtimeconfig.dev.json
+C:\Users\admin\Documents\dot_net_training\play\UI2\bin\Debug\netcoreapp3.1\UI2.dll
+C:\Users\admin\Documents\dot_net_training\play\UI2\bin\Debug\netcoreapp3.1\UI2.pdb
+C:\Users\admin\Documents\dot_net_training\play\UI2\bin\Debug\netcoreapp3.1\CoreLogicLayer2.dll
+C:\Users\admin\Documents\dot_net_training\play\UI2\bin\Debug\netcoreapp3.1\CoreLogicLayer2.pdb
+C:\Users\admin\Documents\dot_net_training\play\UI2\obj\Debug\netcoreapp3.1\UI2.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\dot_net_training\play\UI2\obj\Debug\netcoreapp3.1\UI2.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\dot_net_training\play\UI2\obj\Debug\netcoreapp3.1\UI2.AssemblyInfo.cs
+C:\Users\admin\Documents\dot_net_training\play\UI2\obj\Debug\netcoreapp3.1\UI2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\dot_net_training\play\UI2\obj\Debug\netcoreapp3.1\UI2.csproj.CopyComplete
+C:\Users\admin\Documents\dot_net_training\play\UI2\obj\Debug\netcoreapp3.1\UI2.dll
+C:\Users\admin\Documents\dot_net_training\play\UI2\obj\Debug\netcoreapp3.1\UI2.pdb
+C:\Users\admin\Documents\dot_net_training\play\UI2\obj\Debug\netcoreapp3.1\UI2.genruntimeconfig.cache

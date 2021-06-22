@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "UI2/1.0.0": {
+        "dependencies": {
+          "CoreLogicLayer2": "1.0.0"
+        },
+        "runtime": {
+          "UI2.dll": {}
+        }
+      },
+      "CoreLogicLayer2/1.0.0": {
+        "runtime": {
+          "CoreLogicLayer2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UI2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CoreLogicLayer2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

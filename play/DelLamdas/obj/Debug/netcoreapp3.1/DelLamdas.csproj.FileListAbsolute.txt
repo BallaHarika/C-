@@ -1,0 +1,12 @@
+C:\Users\admin\Documents\dot_net_training\play\DelLamdas\bin\Debug\netcoreapp3.1\DelLamdas.exe
+C:\Users\admin\Documents\dot_net_training\play\DelLamdas\bin\Debug\netcoreapp3.1\DelLamdas.deps.json
+C:\Users\admin\Documents\dot_net_training\play\DelLamdas\bin\Debug\netcoreapp3.1\DelLamdas.runtimeconfig.json
+C:\Users\admin\Documents\dot_net_training\play\DelLamdas\bin\Debug\netcoreapp3.1\DelLamdas.runtimeconfig.dev.json
+C:\Users\admin\Documents\dot_net_training\play\DelLamdas\bin\Debug\netcoreapp3.1\DelLamdas.dll
+C:\Users\admin\Documents\dot_net_training\play\DelLamdas\bin\Debug\netcoreapp3.1\DelLamdas.pdb
+C:\Users\admin\Documents\dot_net_training\play\DelLamdas\obj\Debug\netcoreapp3.1\DelLamdas.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\dot_net_training\play\DelLamdas\obj\Debug\netcoreapp3.1\DelLamdas.AssemblyInfo.cs
+C:\Users\admin\Documents\dot_net_training\play\DelLamdas\obj\Debug\netcoreapp3.1\DelLamdas.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\dot_net_training\play\DelLamdas\obj\Debug\netcoreapp3.1\DelLamdas.dll
+C:\Users\admin\Documents\dot_net_training\play\DelLamdas\obj\Debug\netcoreapp3.1\DelLamdas.pdb
+C:\Users\admin\Documents\dot_net_training\play\DelLamdas\obj\Debug\netcoreapp3.1\DelLamdas.genruntimeconfig.cache

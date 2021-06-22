@@ -1,0 +1,13 @@
+C:\Users\admin\Documents\labwork\labday3\obj\Debug\netcoreapp3.1\labday3.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\labwork\labday3\obj\Debug\netcoreapp3.1\labday3.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\labwork\labday3\obj\Debug\netcoreapp3.1\labday3.AssemblyInfo.cs
+C:\Users\admin\Documents\labwork\labday3\obj\Debug\netcoreapp3.1\labday3.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\labwork\labday3\bin\Debug\netcoreapp3.1\labday3.exe
+C:\Users\admin\Documents\labwork\labday3\bin\Debug\netcoreapp3.1\labday3.deps.json
+C:\Users\admin\Documents\labwork\labday3\bin\Debug\netcoreapp3.1\labday3.runtimeconfig.json
+C:\Users\admin\Documents\labwork\labday3\bin\Debug\netcoreapp3.1\labday3.runtimeconfig.dev.json
+C:\Users\admin\Documents\labwork\labday3\bin\Debug\netcoreapp3.1\labday3.dll
+C:\Users\admin\Documents\labwork\labday3\bin\Debug\netcoreapp3.1\labday3.pdb
+C:\Users\admin\Documents\labwork\labday3\obj\Debug\netcoreapp3.1\labday3.dll
+C:\Users\admin\Documents\labwork\labday3\obj\Debug\netcoreapp3.1\labday3.pdb
+C:\Users\admin\Documents\labwork\labday3\obj\Debug\netcoreapp3.1\labday3.genruntimeconfig.cache
