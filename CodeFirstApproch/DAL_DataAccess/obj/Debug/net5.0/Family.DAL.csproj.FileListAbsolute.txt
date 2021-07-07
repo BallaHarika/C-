@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\CodeFirstApproch\DAL_DataAccess\obj\Debug\net5.0\Family.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\CodeFirstApproch\DAL_DataAccess\obj\Debug\net5.0\Family.DAL.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\CodeFirstApproch\DAL_DataAccess\obj\Debug\net5.0\Family.DAL.AssemblyInfo.cs
+C:\Users\admin\source\repos\CodeFirstApproch\DAL_DataAccess\obj\Debug\net5.0\Family.DAL.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CodeFirstApproch\DAL_DataAccess\bin\Debug\net5.0\Family.DAL.deps.json
+C:\Users\admin\source\repos\CodeFirstApproch\DAL_DataAccess\bin\Debug\net5.0\Family.DAL.dll
+C:\Users\admin\source\repos\CodeFirstApproch\DAL_DataAccess\bin\Debug\net5.0\ref\Family.DAL.dll
+C:\Users\admin\source\repos\CodeFirstApproch\DAL_DataAccess\bin\Debug\net5.0\Family.DAL.pdb
+C:\Users\admin\source\repos\CodeFirstApproch\DAL_DataAccess\obj\Debug\net5.0\Family.DAL.dll
+C:\Users\admin\source\repos\CodeFirstApproch\DAL_DataAccess\obj\Debug\net5.0\ref\Family.DAL.dll
+C:\Users\admin\source\repos\CodeFirstApproch\DAL_DataAccess\obj\Debug\net5.0\Family.DAL.pdb
+C:\Users\admin\source\repos\CodeFirstApproch\DAL_DataAccess\bin\Debug\net5.0\Family.DAL.runtimeconfig.json
+C:\Users\admin\source\repos\CodeFirstApproch\DAL_DataAccess\bin\Debug\net5.0\Family.DAL.runtimeconfig.dev.json
+C:\Users\admin\source\repos\CodeFirstApproch\DAL_DataAccess\obj\Debug\net5.0\Family.DAL.genruntimeconfig.cache
+C:\Users\admin\source\repos\CodeFirstApproch\DAL_DataAccess\obj\Debug\net5.0\Family.DAL.csproj.AssemblyReference.cache

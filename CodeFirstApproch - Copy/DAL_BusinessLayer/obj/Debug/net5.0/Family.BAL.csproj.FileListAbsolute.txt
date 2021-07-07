@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\CodeFirstApproch\DAL_BusinessLayer\bin\Debug\net5.0\Family.BAL.deps.json
+C:\Users\admin\source\repos\CodeFirstApproch\DAL_BusinessLayer\bin\Debug\net5.0\Family.BAL.dll
+C:\Users\admin\source\repos\CodeFirstApproch\DAL_BusinessLayer\bin\Debug\net5.0\ref\Family.BAL.dll
+C:\Users\admin\source\repos\CodeFirstApproch\DAL_BusinessLayer\bin\Debug\net5.0\Family.BAL.pdb
+C:\Users\admin\source\repos\CodeFirstApproch\DAL_BusinessLayer\obj\Debug\net5.0\Family.BAL.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\CodeFirstApproch\DAL_BusinessLayer\obj\Debug\net5.0\Family.BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\CodeFirstApproch\DAL_BusinessLayer\obj\Debug\net5.0\Family.BAL.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\CodeFirstApproch\DAL_BusinessLayer\obj\Debug\net5.0\Family.BAL.AssemblyInfo.cs
+C:\Users\admin\source\repos\CodeFirstApproch\DAL_BusinessLayer\obj\Debug\net5.0\Family.BAL.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CodeFirstApproch\DAL_BusinessLayer\obj\Debug\net5.0\Family.BAL.dll
+C:\Users\admin\source\repos\CodeFirstApproch\DAL_BusinessLayer\obj\Debug\net5.0\ref\Family.BAL.dll
+C:\Users\admin\source\repos\CodeFirstApproch\DAL_BusinessLayer\obj\Debug\net5.0\Family.BAL.pdb
+C:\Users\admin\source\repos\CodeFirstApproch\DAL_BusinessLayer\bin\Debug\net5.0\Family.DAL.dll
+C:\Users\admin\source\repos\CodeFirstApproch\DAL_BusinessLayer\bin\Debug\net5.0\Family.DAL.pdb
+C:\Users\admin\source\repos\CodeFirstApproch\DAL_BusinessLayer\obj\Debug\net5.0\Family.BAL.csproj.CopyComplete

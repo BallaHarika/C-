@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FindMin": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false
+    }
+  }
+}

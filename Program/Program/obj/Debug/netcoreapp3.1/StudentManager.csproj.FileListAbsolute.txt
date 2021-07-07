@@ -1,0 +1,13 @@
+C:\Users\admin\source\repos\Program\Program\bin\Debug\netcoreapp3.1\StudentManager.exe
+C:\Users\admin\source\repos\Program\Program\bin\Debug\netcoreapp3.1\StudentManager.deps.json
+C:\Users\admin\source\repos\Program\Program\bin\Debug\netcoreapp3.1\StudentManager.runtimeconfig.json
+C:\Users\admin\source\repos\Program\Program\bin\Debug\netcoreapp3.1\StudentManager.runtimeconfig.dev.json
+C:\Users\admin\source\repos\Program\Program\bin\Debug\netcoreapp3.1\StudentManager.dll
+C:\Users\admin\source\repos\Program\Program\bin\Debug\netcoreapp3.1\StudentManager.pdb
+C:\Users\admin\source\repos\Program\Program\obj\Debug\netcoreapp3.1\StudentManager.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Program\Program\obj\Debug\netcoreapp3.1\StudentManager.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Program\Program\obj\Debug\netcoreapp3.1\StudentManager.AssemblyInfo.cs
+C:\Users\admin\source\repos\Program\Program\obj\Debug\netcoreapp3.1\StudentManager.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Program\Program\obj\Debug\netcoreapp3.1\StudentManager.dll
+C:\Users\admin\source\repos\Program\Program\obj\Debug\netcoreapp3.1\StudentManager.pdb
+C:\Users\admin\source\repos\Program\Program\obj\Debug\netcoreapp3.1\StudentManager.genruntimeconfig.cache

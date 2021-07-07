@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAOy2WblxJVUSXbWq0MyGCmQAAAAACAAAAAAAQZgAAAAEAACAAAACffIiWeh7BVItxpQwj6bqbMWoKEQHXNkWwPdCtUjk6wQAAAAAOgAAAAAIAACAAAABPnubAz+8fICEmeHAp+NuIQ2Zt/iN+b2BzlDEy6T+QToAAAACS8kM742XmYGbuQvcDCt6mbai/feQ3pqkLih20RE9YfU5TawpV7ffZ7mUpa+eplONAKL/ChSRw5T8dOUaCAwhuSZuKtl9J0i6+9OtJiERXFdyX/pXZ4hgiuKeL5H7XltD+KqcvjrBFZfq0aOOMOhDRI8Sg0bSsry2INkx5/9tl1EAAAADX55TnEFGWCth42E7XMRY2f7Qr4sEclRYZ5DQpZ2DAaFNWsQj47XkUNAWBQyWlo3Aut0QyBeMh+c4Ec3XT7N07</EncryptedPassword>
+    <_PublishTargetUrl>ftp://waws-prod-blu-259.ftp.azurewebsites.windows.net/site/wwwroot</_PublishTargetUrl>
+    <History>True|2021-06-25T09:23:26.6871905Z;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>06/25/2021 14:45:14</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>06/25/2021 14:45:14</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>06/25/2021 14:52:51</publishTime>
+    </File>
+    <File Include="WebApplication1.deps.json">
+      <publishTime>06/25/2021 14:52:42</publishTime>
+    </File>
+    <File Include="WebApplication1.dll">
+      <publishTime>06/25/2021 14:52:42</publishTime>
+    </File>
+    <File Include="WebApplication1.exe">
+      <publishTime>06/25/2021 14:52:42</publishTime>
+    </File>
+    <File Include="WebApplication1.pdb">
+      <publishTime>06/25/2021 14:52:42</publishTime>
+    </File>
+    <File Include="WebApplication1.runtimeconfig.json">
+      <publishTime>06/25/2021 14:52:43</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

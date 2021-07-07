@@ -1,0 +1,13 @@
+C:\Users\admin\source\repos\SurveyOOPs\SurveyOOPs\bin\Debug\netcoreapp3.1\SurveyOOPs.exe
+C:\Users\admin\source\repos\SurveyOOPs\SurveyOOPs\bin\Debug\netcoreapp3.1\SurveyOOPs.deps.json
+C:\Users\admin\source\repos\SurveyOOPs\SurveyOOPs\bin\Debug\netcoreapp3.1\SurveyOOPs.runtimeconfig.json
+C:\Users\admin\source\repos\SurveyOOPs\SurveyOOPs\bin\Debug\netcoreapp3.1\SurveyOOPs.runtimeconfig.dev.json
+C:\Users\admin\source\repos\SurveyOOPs\SurveyOOPs\bin\Debug\netcoreapp3.1\SurveyOOPs.dll
+C:\Users\admin\source\repos\SurveyOOPs\SurveyOOPs\bin\Debug\netcoreapp3.1\SurveyOOPs.pdb
+C:\Users\admin\source\repos\SurveyOOPs\SurveyOOPs\obj\Debug\netcoreapp3.1\SurveyOOPs.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\SurveyOOPs\SurveyOOPs\obj\Debug\netcoreapp3.1\SurveyOOPs.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\SurveyOOPs\SurveyOOPs\obj\Debug\netcoreapp3.1\SurveyOOPs.AssemblyInfo.cs
+C:\Users\admin\source\repos\SurveyOOPs\SurveyOOPs\obj\Debug\netcoreapp3.1\SurveyOOPs.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\SurveyOOPs\SurveyOOPs\obj\Debug\netcoreapp3.1\SurveyOOPs.dll
+C:\Users\admin\source\repos\SurveyOOPs\SurveyOOPs\obj\Debug\netcoreapp3.1\SurveyOOPs.pdb
+C:\Users\admin\source\repos\SurveyOOPs\SurveyOOPs\obj\Debug\netcoreapp3.1\SurveyOOPs.genruntimeconfig.cache

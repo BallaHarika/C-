@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\CodeFirstApproch\DAL_DataAccess\obj\Debug\net5.0\Employee.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\CodeFirstApproch\DAL_DataAccess\obj\Debug\net5.0\Employee.DAL.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\CodeFirstApproch\DAL_DataAccess\obj\Debug\net5.0\Employee.DAL.AssemblyInfo.cs
+C:\Users\admin\source\repos\CodeFirstApproch\DAL_DataAccess\obj\Debug\net5.0\Employee.DAL.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CodeFirstApproch\DAL_DataAccess\bin\Debug\net5.0\Employee.DAL.deps.json
+C:\Users\admin\source\repos\CodeFirstApproch\DAL_DataAccess\bin\Debug\net5.0\Employee.DAL.runtimeconfig.json
+C:\Users\admin\source\repos\CodeFirstApproch\DAL_DataAccess\bin\Debug\net5.0\Employee.DAL.runtimeconfig.dev.json
+C:\Users\admin\source\repos\CodeFirstApproch\DAL_DataAccess\bin\Debug\net5.0\Employee.DAL.dll
+C:\Users\admin\source\repos\CodeFirstApproch\DAL_DataAccess\bin\Debug\net5.0\ref\Employee.DAL.dll
+C:\Users\admin\source\repos\CodeFirstApproch\DAL_DataAccess\bin\Debug\net5.0\Employee.DAL.pdb
+C:\Users\admin\source\repos\CodeFirstApproch\DAL_DataAccess\obj\Debug\net5.0\Employee.DAL.dll
+C:\Users\admin\source\repos\CodeFirstApproch\DAL_DataAccess\obj\Debug\net5.0\ref\Employee.DAL.dll
+C:\Users\admin\source\repos\CodeFirstApproch\DAL_DataAccess\obj\Debug\net5.0\Employee.DAL.pdb
+C:\Users\admin\source\repos\CodeFirstApproch\DAL_DataAccess\obj\Debug\net5.0\Employee.DAL.genruntimeconfig.cache
+C:\Users\admin\source\repos\CodeFirstApproch\DAL_DataAccess\obj\Debug\net5.0\Employee.DAL.csproj.AssemblyReference.cache

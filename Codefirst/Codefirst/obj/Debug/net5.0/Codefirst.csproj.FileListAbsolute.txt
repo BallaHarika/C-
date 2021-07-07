@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\Codefirst\Codefirst\obj\Debug\net5.0\Codefirst.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Codefirst\Codefirst\obj\Debug\net5.0\Codefirst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Codefirst\Codefirst\obj\Debug\net5.0\Codefirst.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Codefirst\Codefirst\obj\Debug\net5.0\Codefirst.AssemblyInfo.cs
+C:\Users\admin\source\repos\Codefirst\Codefirst\obj\Debug\net5.0\Codefirst.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Codefirst\Codefirst\obj\Debug\net5.0\Codefirst.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\admin\source\repos\Codefirst\Codefirst\obj\Debug\net5.0\Codefirst.MvcApplicationPartsAssemblyInfo.cache

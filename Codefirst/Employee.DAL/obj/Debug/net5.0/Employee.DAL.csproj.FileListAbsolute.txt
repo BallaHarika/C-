@@ -1,0 +1,5 @@
+C:\Users\admin\source\repos\Codefirst\Employee.DAL\obj\Debug\net5.0\Employee.DAL.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Codefirst\Employee.DAL\obj\Debug\net5.0\Employee.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Codefirst\Employee.DAL\obj\Debug\net5.0\Employee.DAL.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Codefirst\Employee.DAL\obj\Debug\net5.0\Employee.DAL.AssemblyInfo.cs
+C:\Users\admin\source\repos\Codefirst\Employee.DAL\obj\Debug\net5.0\Employee.DAL.csproj.CoreCompileInputs.cache

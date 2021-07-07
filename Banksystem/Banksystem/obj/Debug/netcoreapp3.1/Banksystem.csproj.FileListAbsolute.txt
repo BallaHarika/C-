@@ -1,0 +1,13 @@
+C:\Users\admin\source\repos\Banksystem\Banksystem\bin\Debug\netcoreapp3.1\Banksystem.exe
+C:\Users\admin\source\repos\Banksystem\Banksystem\bin\Debug\netcoreapp3.1\Banksystem.deps.json
+C:\Users\admin\source\repos\Banksystem\Banksystem\bin\Debug\netcoreapp3.1\Banksystem.runtimeconfig.json
+C:\Users\admin\source\repos\Banksystem\Banksystem\bin\Debug\netcoreapp3.1\Banksystem.runtimeconfig.dev.json
+C:\Users\admin\source\repos\Banksystem\Banksystem\bin\Debug\netcoreapp3.1\Banksystem.dll
+C:\Users\admin\source\repos\Banksystem\Banksystem\bin\Debug\netcoreapp3.1\Banksystem.pdb
+C:\Users\admin\source\repos\Banksystem\Banksystem\obj\Debug\netcoreapp3.1\Banksystem.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Banksystem\Banksystem\obj\Debug\netcoreapp3.1\Banksystem.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Banksystem\Banksystem\obj\Debug\netcoreapp3.1\Banksystem.AssemblyInfo.cs
+C:\Users\admin\source\repos\Banksystem\Banksystem\obj\Debug\netcoreapp3.1\Banksystem.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Banksystem\Banksystem\obj\Debug\netcoreapp3.1\Banksystem.dll
+C:\Users\admin\source\repos\Banksystem\Banksystem\obj\Debug\netcoreapp3.1\Banksystem.pdb
+C:\Users\admin\source\repos\Banksystem\Banksystem\obj\Debug\netcoreapp3.1\Banksystem.genruntimeconfig.cache
